@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinaryTree.cs" />
+    <Compile Include="BTree.cs" />
+    <Compile Include="Collections.cs" />
+    <Compile Include="Finonachi.cs" />
     <Compile Include="iLinkList.cs" />
     <Compile Include="LinkList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
